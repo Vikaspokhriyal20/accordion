@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "question": "What is useState() in React ",
+        "answer": "The useState() is a built-in React Hook that allows you for having state variables in functional components. It should be used when the DOM has something that is dynamically manipulating/controlling."
+    },
+    {
+        "id": 2,
+        "question": "Functional and class components ",
+        "answer": "Before the introduction of Hooks in React, functional components were called stateless components and were behind class components on a feature basis. After the introduction of Hooks, functional components are equivalent to class components."
+    },
+    {
+        "id": 3,
+        "question": "What are props in React ",
+        "answer": "The props in React are the inputs to a component of React. They can be single-valued or objects having a set of values that will be passed to components of React during creation by using a naming convention that almost looks similar to HTML-tag attributes."
+    },
+    {
+        "id": 4,
+        "question": "conditional rendering in React ",
+        "answer": "Conditional rendering refers to the dynamic output of user interface markups based on a condition state. It works in the same way as JavaScript conditions. Using conditional rendering, it is possible to toggle specific application functions, API data rendering, hide or show elements, decide permission levels, authentication handling, and so on."
+    },
+
+    {
+        "id": 5,
+        "question": " What is an event in React ",
+        "answer": "An event is an action which triggers as a result of the user action or system generated event like a mouse click, loading of a web page, pressing a key, window resizes, etc. In React, the event handling system is very similar to handling events in DOM elements."
+    }
+]
